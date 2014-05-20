@@ -1,0 +1,11 @@
+# Site settings
+title: "[devBlog publish:article by:gabrielHauber]"
+email: gabriel@ghostdust.com
+description: "Mac, iOS and general software development"
+baseurl: ""
+url: "http://gabrielhauber.com"
+username: GabrielHauber
+
+# Build settings
+markdown: kramdown
+permalink: /devBlog/:year/:month/:day/:title/
