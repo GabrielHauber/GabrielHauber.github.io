@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2014-05-21 13:00:00 +1000
+categories:  general
+---
+
+Welcome to my blog where I'll be mainly talking about issues around iOS and Mac development. Why another blog on these topics when there are so many out there already?
+
+Because none of those blogs are *mine*.
+
+I've been working primarily as an iOS developer for the past several years after many years as a Java developer. I enjoyed working with Java, but I am enjoying Objective-C a lot more. I also enjoy experimenting in areas not many others may have travelled, and it may be of interest to others if I document some of that stuff here. (Case in point, some years ago I was writing Java classes in VP assembly language on the now defunct [Tao's Intent platform][1].) I hope that as much as I have learned from the wider development community, I can contribute something back.
+
+As to the blog itself: for now it is hosted on the excellent [GitHub Pages][2] using [Jekyll][3] for static site generation. I have no interest in allowing comments on the blog itself, but I welcome dialog either through direct email or via Twitter, etc.
+
+
+[1]:http://en.wikipedia.org/wiki/Tao_Group
+[2]:http://pages.github.com
+[3]:http://jekyllrb.com
