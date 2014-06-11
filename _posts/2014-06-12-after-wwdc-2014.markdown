@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reflections on WWDC 2014"
+date:   2014-06-12 9:00:00 +1000
+categories:  wwdc
+---
+
+Last week was an interesting week. After posting up [My wishes and predictions]({% post_url 2014-06-02-wishes-for-wwdc-2014 %}) the day before the opening keynote, I waited with expectation to see what Apple would announce. Being in Australia, the keynote was to begin at 3am. I set my alarm for 2:50am (yes, I *had* to watch it live!), got up, put on the live stream on my AppleTV, and waited for it to begin.
+
+And, for the first time, my lovely wife also elected to watch it live with me!
+
+Since then, I've managed to watch about a half-dozen more session videos
+
+## My predictions ##
+
+I made three specific predictions that I was quite confident about:
+
+1. New OS X 10.10 with UI refinements and "some new functionality". Well, I think Apple has done really well here. I'm running the beta on a test partition, and I must say I'm impressed with it so far. The overall changes make sense - the consistent layering and uses of transparency to give a sense of place (like in iOS). It's borrowed the best ideas from iOS without trying to become iOS, and so it continues to excel as a desktop operating system. One little thing I noticed is that I can now use Retina display modes on my 28" 4k Dell screen with rotation. Now I can run my 4k screen (attached to a 2012 iMac) in portrait mode!
+
+1. iOS 8 to support iPad 2 / iPad mini and iPhone 4s and above. Check - no surprises here. (My poor old iPhone 4... I guess it may be finally time for an upgrade this year? I need current test devices, after all!)
+
+1. Continued cross-pollination between iOS and OS X while maintaining the individual indentity of each OS. Well... Apple *exceeded* by a long way my expectations in this regard. I am so looking forward to using iOS 8 and OS X 10.10 as my primary environments.
+
+## My wishes ##
+
+These are the things I hoped Apple would do, but were not predictions, per se:
+
+1. Further improvements to the Multipeer framework. Well... there are a few extremely minor API tweaks (changing some properties from assign to weak), but other than that, nothing developer- or user-facing. Hopefully Apple has squashed more bugs here.
+
+1. Multipeer framework on OS X with full feature parity. Yeah! Delivered!
+
+1. Full AirDrop support between iOS and OS X. Awesome!
+
+1. New inter-app communication on iOS. Apple gave us this too with extensions!
+
+1. Interface Builder improvements, specifically for iPad storyboards on smaller screens. What I meant by this - have you ever tried to edit a storyboard on an 11" Macbook Air screen? If you zoom out, you can see the whole canvas, but you can't edit UI elements. If you zoom in to 100% in order to edit the UI, you can barely see a whole iPad screen. This is unchanged, so bombed out here (although it's not *that* big of an issue).
+
+## Surprises and other goodies ##
+
+Apple pulled quite a few rabbits out of its hat during WWDC. These are the things that have stuck with me the most (with the caveat that I haven't watched all the session videos I'm interested in yet).
+
+### SongSheet "mention" ###
+
+The first nice little surprise was a little "mention" of my [iPad app SongSheet][songsheet-appstore] in the nearby networking talk. Right near the beginning the presenter showed a slide with a bunch of app icons. SongSheet was one of them! They didn't talk about it, though, probably because we haven't actually turned on the networking functionality in the release build yet!
+
+
+### The Swift Programming Language and Playgrounds ###
+
+This one caught everyone by surprise. A very pleasant surprise, too. Having recently (a week or so before WWDC) been introduced to [Bret Victor's work on Learnable Programming](http://worrydream.com/LearnableProgramming/) I was very interested to try out Playgrounds. Despite their limitations, it has proved a very valuable way to make myself familiar with the language and try out ideas. The language itself is also very well designed and I am falling in love with it more each day. I (like many others) have already decided to switch to Swift as my primary development language for iOS and OS X.
+
+
+### Unified iPhone/iPad storyboards ###
+
+This one is very welcome, too. The ability to build just *one* storyboard that supports all devices is very cool. And it's obvious that Apple is preparing us for new form factors/sizes with the whole compact/regular layout thing.
+
+
+### Handoff functionality ###
+
+The ability to easily pick up a task on a different device is a very nice addition to the overall Apple ecosystem, and will keep me "locked in" for a while to come ;)
+
+
+### Extensions and Widgets and Keyboards, Oh My! ###
+
+As I already mentioned, I wanted new and improved inter-app communication on iOS, and Apple certainly delivered in this regard, in a way that still retains the basic security model. I'm really looking forward to diving into seeing what I can do with Extensions.
+
+
+### iCloud drive and other improvements ###
+
+From an end-user perspective, iCloud drive is going to make things so much easier in my household with multiple computers and home-schooled kids.
+
+As to the new iCloud functionality for developers, that's also very welcome.
+
+
+## Summary ##
+
+There is so much more I could write about, but those, for now, are the big-ticket items for me. I'm sure as I dive further into all the new goodies there'll be other things I'll get excited about!
+
+[songsheet-appstore]:http://bit.ly/TtSVoY
