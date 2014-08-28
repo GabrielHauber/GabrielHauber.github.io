@@ -1,9 +1,9 @@
 # Site settings
-title: "[devBlog publish:article by:gabrielHauber]"
+title: "Gabriel Hauber: devBlog"
 email: gabriel@ghostdust.com
-description: "Mac, iOS and general software development"
+description: "I develop apps for iOS"
 baseurl: ""
-url: "http://gabrielhauber.com"
+url: "http://gabrielhauber.net"
 username: GabrielHauber
 
 # Build settings
