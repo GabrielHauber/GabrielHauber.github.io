@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "I am an Indie iOS Developer"
-date:   2014-07-28 09:30:00 +1000
+date:   2014-08-29 09:30:00 +1000
 categories:  general
+permalink: /devBlog/2014/07/27/i-am-an-indie-ios-dev/index.html
 ---
 
 Back in July, Brent Simmons asked "[Who at the Table is an Indie iOS Developer?][1]" I'd like to put my hand up.
@@ -80,6 +81,11 @@ Call me mad. Call me whatever you want :)
 But I call myself an indie iOS developer.
 
 _Please stay tuned for the next part where I’ll go into more depth about why I believe I can succeed with SongSheet._
+
+###Update September 6, 2014:
+
+* [You can read part 2 here]({% post_url 2014-09-06-indie-dev-part-2 %})
+* (I also fixed the date at the top of this post - It should have been August, not July; I'd had a typo in the posts' metadata)
 
 
 [1]:http://inessential.com/2014/07/25/who_at_the_table_is_an_indie_ios_develop
