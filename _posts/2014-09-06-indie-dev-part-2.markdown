@@ -7,7 +7,7 @@ permalink: /devBlog/2014/09/06/indie-dev-part-2/index.html
 ---
 
 
-This is the second part of my story about becoming an indie iOS developer. [Read part one]({% post_url 2014-08-29-i-am-an-indie-ios-dev %}).
+This is the second part of my story about becoming an indie iOS developer. [Read part one](/devBlog/2014/07/27/i-am-an-indie-ios-dev).
 
 ##SongSheet or bust
 

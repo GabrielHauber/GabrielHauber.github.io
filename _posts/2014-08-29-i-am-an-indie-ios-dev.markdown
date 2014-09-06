@@ -84,7 +84,7 @@ _Please stay tuned for the next part where I’ll go into more depth about why I
 
 ###Update September 6, 2014:
 
-* [You can read part 2 here]({% post_url 2014-09-06-indie-dev-part-2 %})
+* [You can read part 2 here](/devBlog/2014/09/06/indie-dev-part-2)
 * (I also fixed the date at the top of this post - It should have been August, not July; I'd had a typo in the posts' metadata)
 
 
