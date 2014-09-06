@@ -59,9 +59,9 @@ Yes, it’s still far from a full-time income. But, the interesting question is,
 
 Here are my theories as to why revenue had been increasing in the time up to making my decision. These are the seeds of my confidence in SongSheet’s future:
 
-###1. App Store Optimisation
+###1. App Store Optimisations
 
-In April of this year, I began to more seriously research App Store Optimisation (ASO) techniques, with the help of the [Sensor Tower](www.sensortower.com) website. As a result of my research, I rolled out my first changes to App Store keywords and app title in the 2.0.2 release - the first time any changes had been made to these since SongSheet 1.0 had gone live. I’m pretty certain that the keywords we chose for 1.0 were far from optimal and probably contributed significantly to slow sales. SongSheet probably wasn’t appearing in many searches on the App Store, although I have no way of knowing for sure, since Apple wasn’t providing that kind of data. With the new app title and keywords, as well as a reworked description and set of screenshots, I’m hoping that SongSheet was appearing more often in searches (resulting in a bump in sales). Again, without actual numbers from Apple, I don’t know for sure if the changes I made really had this effect.
+In April of this year, I began to more seriously research App Store Optimisation (ASO) techniques, with the help of the [Sensor Tower](http://www.sensortower.com) website. As a result of my research, I rolled out my first changes to App Store keywords and app title in the 2.0.2 release - the first time any changes had been made to these since SongSheet 1.0 had gone live. I’m pretty certain that the keywords we chose for 1.0 were far from optimal and probably contributed significantly to slow sales. SongSheet probably wasn’t appearing in many searches on the App Store, although I have no way of knowing for sure, since Apple wasn’t providing that kind of data. With the new app title and keywords, as well as a reworked description and set of screenshots, I’m hoping that SongSheet was appearing more often in searches (resulting in a bump in sales). Again, without actual numbers from Apple, I don’t know for sure if the changes I made really had this effect.
 
 As such, I’m really looking forward to the new data that will be available through iTunes Connect later this year, and hope it will go a long way towards answering the above questions. (Actually, knowing that Apple will be improving app store analytics contributed to my decision to take this path: with better information I’m sure I will be able to more predictably make improvements here.)
 
@@ -84,7 +84,7 @@ This is what downloads looked like over the period of the experiment:
 At $0.99 and $1.99 there is a big jump in the volume of sales, but from $2.99 onwards, you can see that demand falls off in a gentle slope. Increasing the price in this range reduced demand only a little. What effect, then, did this have on overall profit?
 
 ![SongSheet profits versus price graph](/images/songsheet-profit-vs-price.png)
-￼
+
 
 At higher price points total profit was significantly _higher_. It's hard to tell for certain because week-to-week variations can skew things a little - it would have been better if I'd run at each price point for a longer period - but if you imagine a smoothed curve then the levelling off between $4.99 and $6.99 and subsequent drop at $7.99 suggests that $6.99 may be the current sweet spot for SongSheet's pricing (for now).
 
