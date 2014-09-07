@@ -18,7 +18,7 @@ At the time I was deciding to become a full-time indie iOS developer, my financi
 
 Scenario #2 is obviously the one I chose. Failure simply brings us back to option #1. Success means not having to go through the hassle of selling and moving. I (and my wife) liked this option more.
 
-The next question was: do I work on new apps, or continue to work exclusively on SongSheet?
+The next question was: do I work on new apps, or continue to work exclusively on [SongSheet](http://songsheetapp.com)?
 
 My decision making went something like this:
 
