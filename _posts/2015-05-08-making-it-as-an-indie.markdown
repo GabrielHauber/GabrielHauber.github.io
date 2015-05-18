@@ -58,4 +58,4 @@ I believe that with a small number of core apps running across both iOS and OS X
 If you missed it, you can read about my journey to becoming a full-time indie iOS developer here:
 
 * [I am an indie iOS developer: Part 1](/devBlog/2014/07/27/i-am-an-indie-ios-dev)
-* [I am an indie iOS developer: Part 2](/devblog/2014/09/06/indie-dev-part-2)
+* [I am an indie iOS developer: Part 2](/devBlog/2014/09/06/indie-dev-part-2)
